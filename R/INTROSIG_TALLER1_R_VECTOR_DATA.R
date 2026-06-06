@@ -2,6 +2,8 @@
 # SCRIPT DE ANÁLISIS ESPACIAL CON R 
 # ==============================================================================
 # Autor: Prof. Lucas Vituri Santarosa
+# Laboratório de Recursos Hídricos y Geotecnologias
+# Institución: Pontificia Universidad Católica de Valparaíso (PUCV)
 #
 # El objetivo principal es cargar coberturas de uso de suelo (frutales), 
 # procesar las geometrías de las provincias de la Región de Valparaíso, 
