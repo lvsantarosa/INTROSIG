@@ -6,3 +6,11 @@ El propósito principal es ofrecer una documentación organizada, reproducible y
 
 **Importante:** una parte significativa de los materiales ha sido perfeccionada mediante herramientas de inteligencia artificial con el fin de mejorar la claridad de los comentarios, optimizar la estructura de los documentos y facilitar el estudio y uso de estos recursos.
 
+---
+
+### 📬 Contacto
+
+- **Instagram del laboratorio:** [@lrhg.lvs](https://www.instagram.com/lrhg.lvs)  
+- **LinkedIn (Lucas Vituri Santarosa):** [https://www.linkedin.com/in/lucas-vituri-santarosa-321b74a6/](https://www.linkedin.com/in/lucas-vituri-santarosa-321b74a6/)
+
+
