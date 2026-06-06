@@ -1,7 +1,6 @@
 # ==============================================================================
 # EVALUACIÓN PRÁCTICA: ESTRUCTURA FRUTÍCOLA Y DINÁMICA FENOLÓGICA
 # ==============================================================================
-# Curso: Sistemas de Información Geográfica y Geo-Hidrología
 # Institución: Pontificia Universidad Católica de Valparaíso (PUCV)
 # Prof. Lucas Vituri Santarosa
 #
