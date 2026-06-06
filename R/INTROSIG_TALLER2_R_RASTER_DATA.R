@@ -2,6 +2,7 @@
 # SCRIPT INTEGRACIÓN VECTOR-RASTER Y CÁLCULO DE ÍNDICES ESPECTRALES
 # ==============================================================================
 # Autor: Prof. Lucas Vituri Santarosa
+# Laboratório de Recursos Hídricos y Geotecnologias
 # Institución: Pontificia Universidad Católica de Valparaíso (PUCV)
 #
 # Descripción: Este script toma como base los datos vectoriales provinciales y 
