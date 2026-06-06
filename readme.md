@@ -10,7 +10,7 @@ El propósito principal es ofrecer una documentación organizada, reproducible y
 
 ### 📬 Contacto
 
-- **Instagram del laboratorio:** [@lrhg.lvs](https://www.instagram.com/lrhg.lvs)  
+- **Instagram del laboratorio:** [@lrhg.pucv](https://www.instagram.com/lrhg.pucv)  
 - **LinkedIn (Lucas Vituri Santarosa):** [https://www.linkedin.com/in/lucas-vituri-santarosa-321b74a6/](https://www.linkedin.com/in/lucas-vituri-santarosa-321b74a6/)
 
 
