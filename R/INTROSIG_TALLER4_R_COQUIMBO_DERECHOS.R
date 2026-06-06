@@ -1,8 +1,7 @@
 # ==============================================================================
 # EVALUACIÓN PRÁCTICA: VULNERABILIDAD HÍDRICA Y ESTRÉS VEGETATIVO (COQUIMBO)
 # ==============================================================================
-# Curso: Sistemas de Información Geográfica y Geo-Hidrología
-# Institución: Pontificia Universidad Católica de Valparaíso (PUCV)
+# # Institución: Pontificia Universidad Católica de Valparaíso (PUCV)
 # Prof. Lucas Vituri Santarosa
 #
 # Descripción: Diagnóstico espacial para evaluar la dependencia de aguas 
