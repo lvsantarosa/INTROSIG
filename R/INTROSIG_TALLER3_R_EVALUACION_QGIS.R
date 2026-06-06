@@ -2,6 +2,7 @@
 # EVALUACIÓN PRÁCTICA: ESTRUCTURA FRUTÍCOLA Y DINÁMICA FENOLÓGICA
 # ==============================================================================
 # Institución: Pontificia Universidad Católica de Valparaíso (PUCV)
+# Laboratório de Recursos Hídricos y Geotecnologias
 # Prof. Lucas Vituri Santarosa
 #
 # Descripción: Diagnóstico integral combinando vectores y rasters.
