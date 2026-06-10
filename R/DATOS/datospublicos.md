@@ -16,3 +16,6 @@ Ubicación en el repositorio: /data/limites_politicos/
 Fuente oficial: https://dga.mop.gob.cl/derechos-de-agua/derechos-registrados/  
 Descripción: Registro público de derechos de aguas consuntivos y no consuntivos.
 Ubicación en el repositorio: /data/derechos_agua/
+
+#### Datos satelitales pueden ser bajados usando aplicaciones preparadas para Chile 
+https://github.com/lvsantarosa/gee-global-data-chile
