@@ -98,7 +98,7 @@ print(mapa_frutales)
 # FASE II & III: ANÁLISIS RÁSTER, ESTADÍSTICAS ZONALES Y DELTA NDVI
 # ------------------------------------------------------------------------------
 
-# 1. Cargar imágenes NDVI descargadas de GEE
+# 1. Cargar imágenes NDVI descargadas de GEE https://github.com/lvsantarosa/gee-global-data-chile
 # (Asumiendo que las imágenes ya vienen con el factor de escala aplicado de GEE)
 ndvi_verano <- rast("DATOS/Landsat-8_Quillota_ÍndiceNDVI_Verano/Landsat-8_Quillota_ÍndiceNDVI_VERANO.tif") %>% project("EPSG:32719")
 ndvi_invierno <- rast("DATOS/Landsat-8_Quillota_ÍndiceNDVI_Invierno/Landsat-8_Quillota_ÍndiceNDVI_INVIERNO.tif") %>% project("EPSG:32719")
